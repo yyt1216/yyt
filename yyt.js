@@ -1,3 +1,3 @@
 function a(){
-  c  onsolo.log()
+  consolo.log("hello world")
  }
